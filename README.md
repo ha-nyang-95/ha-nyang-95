@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to-nl-hanyang's%20Github&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=75BDE0&height=300&section=header&text=Welcome%20to-nl-hanyang's%20Github&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
