@@ -1,7 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/ha-nyang-95/ha-nyang-95/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to-nl-hanyang's%20Github&fontSize=90&animation=twinkling)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
