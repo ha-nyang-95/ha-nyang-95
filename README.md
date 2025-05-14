@@ -1,69 +1,63 @@
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=75BDE0&height=300&section=header&text=Welcome%20to-nl-hanyang's%20Github&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+# 👋 Hi there! I'm Chulhwan Jang
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+데이터 분석과 AI 모델링, 실시간 스트리밍 파이프라인 구축까지 폭넓은 경험을 통해 **문제를 기술로 해결하는 즐거움**을 배워가고 있습니다.  
+현재는 **SSAFY** 교육과정을 수료하며, **데이터 엔지니어링**, **딥러닝 기반 컴퓨터 비전**, **웹 기반 대시보드 구현** 등 다양한 분야의 프로젝트를 경험하고 있습니다.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## 🚀 주요 프로젝트
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+### 🛣 SSAFY_AI_Challenge
+- **주제**: 도로 위 포트홀 자동 감지 AI 모델 개발
+- **설명**: YOLOv8을 활용하여 실제 도로 사진 기반 포트홀 탐지 모델 구현, 성능 평가지표(mAP, IoU, Precision, Recall) 분석
+- **기술**: Python, YOLOv8, 컴퓨터 비전, 딥러닝
 
-<br>
+### 🧠 Data_Study
+- **주제**: 데이터 분석, 머신러닝, 데이터 엔지니어링 및 웹 기반 시각화 정리
+- **설명**: Kafka-Flink 실시간 스트리밍, Spark 배치 처리, Airflow 자동화, RESTful API 서버 및 Vue.js 대시보드 등 풀스택 기반 프로젝트 다수 수행
+- **기술**: Python, SQL(PostgreSQL, MySQL), Kafka, Flink, Spark, Airflow, Docker, Prometheus, Grafana, Vue.js, REST API
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+### 🎮 LOL-dashboard-projects
+- **주제**: 게임 데이터를 활용한 크롤링, API 분석 및 대시보드 구축
+- **설명**: 게임 메타 정보 및 유저 플레이 데이터를 수집하여 데이터 기반 분석을 수행하는 대시보드 프로젝트
+- **기술**: Python, API 활용, 데이터 크롤링/파싱
 
-<br>
+### 📚 Algo_Study
+- **주제**: 알고리즘 스터디 및 문제 풀이 기록
+- **설명**: BaekjoonHub를 활용한 자동 푸시 저장, 프로그래머스, SWEA 등 다양한 플랫폼에서 알고리즘 문제 풀이
+- **활동**: 주기적인 코드 리뷰 및 풀이 공유를 통해 알고리즘 역량 강화
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+## 💻 기술 스택
 
-<br>
+**Programming**  
+Python, SQL, JavaScript
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+**Data Analysis / ML**  
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-<br>
+**Big Data / Streaming**  
+Kafka, Flink, Spark, Airflow, Prometheus, Grafana, Docker
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="wkdcjfghks2@naver.com">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-  </a>
-  <a href="wkdcjfghks1@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+**Web Development**  
+Vue.js, Spring Boot, RESTful API, WebSocket
+
+**AI / DL**  
+YOLOv8, Object Detection, Computer Vision
+
+**Others**  
+VSCode, PyCharm, Git, Figma, Adobe Photoshop, Final Cut Pro
+
+---
+
+## 🛠 활동 및 협업 경험
+
+- **SSAFY AI 챌린지** – 팀 *철환이와 아이들*로 포트홀 탐지 모델 개발
+- **데이터 분석/엔지니어링 프로젝트** – 실시간 뉴스 처리 파이프라인 및 추천 시스템 개발
+- **스터디 활동** – 알고리즘 문제 풀이, 머신러닝, 웹 개발 실습을 함께 진행
+
+---
+
+## 📊 백준 알고리즘 랭크  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdcjfghks2)](https://solved.ac/wkdcjfghks2)
