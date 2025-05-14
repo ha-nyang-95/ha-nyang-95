@@ -60,4 +60,4 @@ VSCode, PyCharm, Git, Figma, Adobe Photoshop, Final Cut Pro
 ---
 
 ## 📊 백준 알고리즘 랭크  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdcjfghks2)](https://solved.ac/asdsw15)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdsw15)](https://solved.ac/asdsw15)
