@@ -48,11 +48,17 @@
 
 <h3 align="center">💼 주요 프로젝트 💼</h3>
 
-- 🛣 **SSAFY AI Challenge**  
-  : YOLOv8 기반 포트홀 객체 탐지 모델 개발, 실사진 기반 데이터 수집, 성능지표 mAP/IoU 기반 평가
+- 📰 **뉴스 추천 시스템**  
+  : 사용자 맞춤형 뉴스 추천 시스템 개발, NLP 기반 콘텐츠 분석, 실시간 데이터 파이프라인 구축, Vue.js 기반 대시보드 구현
+
+- 🎬 **영화 분석 및 추천 시스템**  
+  : Selenium 기반 영화 데이터 크롤링, NLP를 활용한 리뷰 감성 분석, 사용자 맞춤형 영화 추천 알고리즘 개발
 
 - 📊 **Data_Study**  
-  : Kafka-Flink 실시간 파이프라인, Spark+Airflow 배치 처리, Vue.js 기반 실시간 대시보드 등
+  : Kafka-Flink 실시간 파이프라인, Spark+Airflow 배치 처리, Vue.js 기반 실시간 대시보드, 데이터 분석 및 시각화
+
+- 🛣 **SSAFY AI Challenge**  
+  : YOLOv8 기반 포트홀 객체 탐지 모델 개발, 실사진 기반 데이터 수집, 성능지표 mAP/IoU 기반 평가
 
 - 🎮 **LOL-dashboard-projects**  
   : 게임 API 기반 크롤링, 플레이어 분석 및 메타데이터 시각화 대시보드 구현
