@@ -14,7 +14,21 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Seaborn-0C7DC3?style=for-the-badge&logo=seaborn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Albumentations-00D4AA?style=for-the-badge&logo=albumentations&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
@@ -40,16 +54,19 @@
 
 <h3 align="center">💼 주요 프로젝트 💼</h3>
 
-- 🎮 **LOL-dashboard-projects**  
+- 🚁 **[CDD (Crack Detection using Drone) 프로젝트](https://github.com/ha-nyang-95/Crack_Detection_Drone)**  
+  : AI 드론 기반 실시간 구조물 균열 탐지 및 3D 시각화 시스템, Image Segmentation 모델 개발, 데이터 중심 편향 문제 해결로 IoU 3.2%↑ F1 Score 2.4%↑ 성능 향상
+
+- 🎮 **[LOL-dashboard-projects](https://github.com/ha-nyang-95/LOL-dashboard-projects)**  
   : 게임 API 기반 크롤링, 플레이어 분석 및 메타데이터 시각화 대시보드 구현
 
-- 🛣 **SSAFY AI Challenge**  
+- 🛣 **[SSAFY AI Challenge](https://github.com/ha-nyang-95/SSAFY_AI_Challenge)**  
   : YOLOv8 기반 포트홀 객체 탐지 모델 개발, 실사진 기반 데이터 수집, 성능지표 mAP/IoU 기반 평가
 
-- 📊 **Data_Study**  
+- 📊 **[Data_Study](https://github.com/ha-nyang-95/Data_Study)**  
   : Kafka-Flink 실시간 파이프라인, Spark+Airflow 배치 처리, Vue.js 기반 실시간 대시보드, 데이터 분석 및 시각화
 
-- 🧠 **Algo_Study**  
+- 🧠 **[Algo_Study](https://github.com/ha-nyang-95/Algo_study)**  
   : 알고리즘 풀이 자동 저장, BaekjoonHub 연동, 다양한 플랫폼 문제 풀이 및 코드 공유
 
 ---
