@@ -63,84 +63,70 @@
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
-<h3 align="center">📊 GitHub</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ha-nyang-95&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ha-nyang-95?style=for-the-badge&logo=github&logoColor=white&color=06B6D4&label=FOLLOWERS" />
-</div>
-
-<br>
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
-<h2 align="center">⭐ 주요 프로젝트 (Featured)</h2>
+<h3 align="center">⭐ 주요 프로젝트 (Featured)</h3>
 <p align="center"><sub><i>대표작 3선 — 클릭하면 레포로 이동합니다.</i></sub></p>
 
-<table width="100%">
-<tr>
-<td>
+<div align="center">
 
 <h3>🐾 <a href="https://github.com/ha-nyang-95/Pet_Fintech">오늘도펫 — Pet_Fintech</a></h3>
 
 <i>반려동물의 일상을 "기록"하고, "이상 징후"를 알리고, 맞춤 "금융 상품"을 추천하는 펫-핀테크 앱</i>
 
-<ul>
-  <li>🧑‍💼 <b>역할:</b> Team Leader (Team. FinTakk, 6인) — Flutter 앱 UI/UX · 기록/캘린더 화면 개발</li>
-  <li>🩺 건강 기록 기반 이상치 탐지 + Gemini·LangChain 기반 AI 금융상품 추천</li>
-  <li>🗓 4주 자율 프로젝트, <b>삼성 임직원 유저 테스트</b> 진행 후 피드백 반영</li>
-  <li>🎬 <a href="https://youtu.be/SPcVISQVUgM">서비스 소개 영상 보기</a></li>
-</ul>
+🧑‍💼 <b>역할:</b> Team Leader (Team. FinTakk, 6인) — Flutter 앱 UI/UX · 기록/캘린더 화면 개발<br>
+🩺 건강 기록 기반 이상치 탐지 + Gemini·LangChain 기반 AI 금융상품 추천<br>
+🗓 4주 자율 프로젝트, <b>삼성 임직원 유저 테스트</b> 진행 후 피드백 반영<br>
+🎬 <a href="https://youtu.be/SPcVISQVUgM">서비스 소개 영상 보기</a>
 
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
 
-<hr>
+<br>
 
 <h3>🚁 <a href="https://github.com/ha-nyang-95/SSAFY-CDD">CDD — Crack Detection Drone</a></h3>
 
 <i>드론에 부착해 구조물 균열을 실시간 탐지·정밀 분석하고 3D로 시각화하는 AIoT 솔루션</i>
 
-<ul>
-  <li>🧭 <b>역할:</b> PM · Data Engineer · Frontend — <b>Three.js 3D 시각화 웹</b> 구현 &amp; 데이터 전처리 담당</li>
-  <li>🤖 프로젝트 파이프라인: YOLOv8n 실시간 탐지 → DeepLabV3 정밀 분할 + LiDAR 깊이 측정</li>
-  <li>🌐 3D Gaussian Splatting으로 재구성한 현장을 웹 브라우저에서 자유롭게 탐색</li>
-  <li>🎬 <a href="https://youtu.be/M6N3P6Uup3A">프로젝트 시연 영상 보기</a></li>
-</ul>
+🧭 <b>역할:</b> PM · Data Engineer · Frontend — <b>Three.js 3D 시각화 웹</b> 구현 &amp; 데이터 전처리 담당<br>
+🤖 프로젝트 파이프라인: YOLOv8n 실시간 탐지 → DeepLabV3 정밀 분할 + LiDAR 깊이 측정<br>
+🌐 3D Gaussian Splatting으로 재구성한 현장을 웹 브라우저에서 자유롭게 탐색<br>
+🎬 <a href="https://youtu.be/M6N3P6Uup3A">프로젝트 시연 영상 보기</a>
 
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8n-00FFFF?style=flat-square&logoColor=black" />
 <img src="https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/3D_Gaussian_Splatting-9B59B6?style=flat-square" />
+</p>
 
-<hr>
+<br>
 
 <h3>📰 <a href="https://github.com/ha-nyang-95/news-recommendation-system">SSAFYNEWS — 실시간 뉴스 큐레이션 &amp; RAG 챗봇</a></h3>
 
 <i>RSS 수집부터 RAG 챗봇까지, 실시간 뉴스를 맞춤 큐레이션하는 풀스택 플랫폼</i>
 
-<ul>
-  <li>🧑‍🤝‍🧑 <b>역할:</b> 2인 팀에서 데이터 파이프라인 · 백엔드 · 프론트 · RAG 챗봇 <b>풀스택 구현</b></li>
-  <li>🌊 RSS → Kafka → Flink 실시간 처리 + Spark·Airflow 배치로 일일 분석 리포트 자동 발행</li>
-  <li>🔎 pgvector(의미) + Elasticsearch(키워드) <b>하이브리드 검색</b></li>
-  <li>💬 LangChain 기반 <b>RAG 챗봇</b> — 기사 본문을 근거로 맥락 기반 답변</li>
-</ul>
+🧑‍🤝‍🧑 <b>역할:</b> 2인 팀에서 데이터 파이프라인 · 백엔드 · 프론트 · RAG 챗봇 <b>풀스택 구현</b><br>
+🌊 RSS → Kafka → Flink 실시간 처리 + Spark·Airflow 배치로 일일 분석 리포트 자동 발행<br>
+🔎 pgvector(의미) + Elasticsearch(키워드) <b>하이브리드 검색</b><br>
+💬 LangChain 기반 <b>RAG 챗봇</b> — 기사 본문을 근거로 맥락 기반 답변
 
+<p>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white" />
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
+</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
